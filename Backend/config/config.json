@@ -1,0 +1,18 @@
+{
+    "development": {
+        "username": "root",
+        "password": "1234",
+        "database": "Ssix",
+        "host": "localhost",
+        "dialect": "mysql",
+        "superSecret": "tempsecrate"
+    },
+    "production": {
+        "username": "root",
+        "password": "1234",
+        "database": "Ssix",
+        "host": "localhost",
+        "dialect": "mysql",
+        "superSecret": "tempsecrate"
+    }
+}
